@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.lmstudio/
+*.js.map
+.DS_Store

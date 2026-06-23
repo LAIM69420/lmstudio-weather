@@ -1,0 +1,12 @@
+{
+  "owner": "local",
+  "name": "weather",
+  "type": "plugin",
+  "runner": "node",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "icon": "thumbnail.png",
+  "license": "MIT",
+  "description": "Real-time weather data from Open-Meteo (free, no API key). Current conditions, forecasts, and historical data for any location.",
+  "categories": ["tools"]
+}
